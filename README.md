@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnlwe09&show_icons=true&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=xnlwe09&show_icons=true&theme=tokyonight" height="150"/>
+
+  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://mblogthumb-phinf.pstatic.net/MjAyNDAxMTRfMjkx/MDAxNzA1MjM2ODU2MDU5.1ayvFtF2DDffVOSjWnUVb-IVTlpRoI0CXBVrHilQS6Qg.jod2R0hZ4SqnofenaKjWqiLlvRUWqGSTjdwp2C9gvUog.GIF.copymach/kirby_sleepy-sleeping.gif?type=w800)" height="150"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer" />
