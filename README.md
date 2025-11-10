@@ -2,21 +2,17 @@
 
 <div align="center">
 
-<h3 align="center" style="color:#ff8fab;">Hello <b>xnlwe09</b> World 🍎</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <h3 style="color:#ff8fab; margin: 0;">Hello <b>xnlwe09</b> World 🍎</h3>
+    <img src="https://komarev.com/ghpvc/?username=xnlwe09&color=ffb6c1&style=flat-square" />
+  </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header"/>
-</p>
-
+  <p align="center" style="margin-top:10px; margin-bottom:20px;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2&section=header"/>
+  </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=xnlwe09&show_icons=true&theme=tokyonight" height="150"/>
-
   <img src="https://mblogthumb-phinf.pstatic.net/MjAyNDAxMTRfMjkx/MDAxNzA1MjM2ODU2MDU5.1ayvFtF2DDffVOSjWnUVb-IVTlpRoI0CXBVrHilQS6Qg.jod2R0hZ4SqnofenaKjWqiLlvRUWqGSTjdwp2C9gvUog.GIF.copymach/kirby_sleepy-sleeping.gif?type=w800" height="150" style="margin-left:20px;"/>
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xnlwe09&color=ffb6c1&style=flat-square" />
-</p>
-
 
 </div>
 
