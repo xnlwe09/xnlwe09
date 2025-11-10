@@ -4,7 +4,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <h3 style="color:#ff8fab; margin: 0;">
-      Hello <b>xnlwe09</b> World 🍎
+      Hello xnlwe09 World 🍎
     </h3>
     <img src="https://komarev.com/ghpvc/?username=xnlwe09&color=ffb6c1&style=flat-square" />
   </div>
