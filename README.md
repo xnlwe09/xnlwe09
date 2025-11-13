@@ -19,7 +19,7 @@
   </div>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top:25px;">
-    <img src="https://image.pngaaa.com/868/3065868-middle.png" height="140" />
+    <img src="https://postfiles.pstatic.net/MjAyNDAxMTRfMTMg/MDAxNzA1MjM2NjMyNTIz.9pS5K139FhcshC_sthGIZw2yE8xmn44DKoZDe9dT2owg.tqRj5LGIsfHjlzAdkmXrSLrmgJ6bbuT8YSHSidBcPDsg.GIF.copymach/kirby_run.gif?type=w3840" height="140" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnlwe09&layout=compact&theme=rose_pine&hide_border=true" height="150" />
   </div>
 
